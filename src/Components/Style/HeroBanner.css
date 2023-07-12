@@ -1,0 +1,27 @@
+.text-fitness{
+        
+    color: var(--orange);
+}
+
+
+.banner_stroke {
+    color: transparent;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: var(--orange);
+}
+
+.banner_button{
+    background: var(--planCard);
+    font-weight: 600;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.banner_button:hover{
+    border: 2px solid var(--text);
+    
+}
+
+.img-banner{
+    border-radius: 15px;
+}

@@ -1,0 +1,15 @@
+.logo {
+    width: 9rem;
+    height: 9rem;
+    margin: 0.5rem 1.5rem;
+}
+
+.nav_home{
+    border-bottom: 3px solid var(--orange);
+}
+
+.nav_home,.nav_exercises{
+    text-decoration: none;
+    color: var(--text);
+}
+

@@ -1,0 +1,14 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    text-decoration: none;
+    flex-wrap: wrap;
+    padding-top: 0.6rem;
+    width: 22.5rem;
+    height: auto;
+}
+
+.img-card{
+    border-radius: 15px 15px 0 0;
+}
